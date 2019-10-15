@@ -1,0 +1,58 @@
+header {
+    margin-bottom: 15px;
+    color: #fff;
+    line-height: 1;
+}
+.materia {
+    float: right;
+    margin-right: 50px;
+    font-size: 30px;
+    margin-top: 35px;
+}
+.barra {
+    background-color: #3968bb;
+    text-align: center;
+    height: 26px;
+    font-size: 20px;
+    padding-top: 7px;
+    box-sizing: initial;
+}
+.superior {
+    background-color: #5f8fe4;
+    height: 110px;
+}
+.superior .titulo p {
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.superior .titulo {
+    display: inline-block;
+    position: absolute;
+    top: 27px;
+    margin-left: 10px;
+    line-height: 30px;
+}
+.superior img {
+     width: 90px;
+     margin-left: 30px;
+     margin-top: 10px;
+ }
+footer {
+    height: 50px;
+    margin-top: 30px;
+    width: 100%;
+    background-color: #5f8fe4;
+    color: #fff;
+    font-size: 14px;
+}
+.docentes {
+    float: left;
+    margin-left: 50px;
+    margin-top: 14px;
+}
+.alumno {
+    float: right;
+    margin-right: 50px;
+    margin-top: 14px;
+}
